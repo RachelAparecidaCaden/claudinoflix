@@ -1,6 +1,7 @@
 body{
     background-color: black;
     color: rgb(85, 7, 85);
+    font-family: pacifico;
 }
 
 h2{
@@ -29,3 +30,11 @@ h2{
     text-align: center;
 }
 
+.informacao{
+    color: rgb(102, 30, 175);
+    font-size: 30px;
+    display: flex;
+}
+.imagem{
+    width: 30%;
+}
